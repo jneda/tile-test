@@ -1,0 +1,10 @@
+canvas {
+  outline: 4px solid gold;
+}
+
+body {
+  background: indigo;
+  color: gold;
+  text-align: center;
+  margin-top: 4rem;
+}
